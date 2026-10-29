@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Mes tâches Premium",
+  "short_name": "Mes tâches",
+  "description": "Organisez vos tâches avec élégance, même hors connexion.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F8F9FD",
+  "theme_color": "#F8F9FD",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
